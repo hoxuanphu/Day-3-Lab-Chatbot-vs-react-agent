@@ -1,6 +1,24 @@
+# Environments
 .env
+.env.local
+.env.*.local
+venv/
+env/
+.venv/
+
+# Data and Logs
+data/
 logs/
-__pycache__/
 *.log
+results/
+reports/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# System Files
 .DS_Store
-models/
+Thumbs.db
+venv
