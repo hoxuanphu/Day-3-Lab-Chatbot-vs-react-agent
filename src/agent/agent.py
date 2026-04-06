@@ -4,7 +4,7 @@ from typing import List, Dict, Any, Optional
 #from src.core.llm_provider import LLMProvider
 from src.telemetry.logger import logger
 from src.core.openai_provider import OpenAIProvider
-API_keys=''
+API=''
 class ReActAgent:
     """
     SKELETON: A ReAct-style Agent that follows the Thought-Action-Observation loop.
