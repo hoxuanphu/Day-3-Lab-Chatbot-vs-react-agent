@@ -1,4 +1,3 @@
-Nhóm 16- E402: Đào Danh Đăng Phụng, Hồ Xuân Phú, Phạm Anh Quân, Hoàng Ngọc Thạch, Nguyễn Minh Trí, Lại Dức Anh
 # Lab 3: Chatbot vs ReAct Agent (Industry Edition)
 
 Welcome to Phase 3 of the Agentic AI course! This lab focuses on moving from a simple LLM Chatbot to a sophisticated **ReAct Agent** with industry-standard monitoring.
@@ -55,3 +54,8 @@ The code is designed as a **Production Prototype**. It includes:
 ---
 
 *Happy Coding! Let's build agents that actually work.*
+
+
+
+
+.
