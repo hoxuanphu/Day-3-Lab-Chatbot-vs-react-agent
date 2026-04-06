@@ -63,5 +63,3 @@
 
 ---
 
-> [!TIP]
-> Báo cáo này đại diện cho nỗ lực xây dựng một hệ thống Agent có khả năng lập luận thay vì chỉ phản hồi dựa trên từ khóa.
