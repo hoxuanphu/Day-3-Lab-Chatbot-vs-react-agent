@@ -4,7 +4,6 @@ from typing import List, Dict, Any, Optional
 #from src.core.llm_provider import LLMProvider
 from src.telemetry.logger import logger
 from src.core.openai_provider import OpenAIProvider
-API=''
 class ReActAgent:
     """
     SKELETON: A ReAct-style Agent that follows the Thought-Action-Observation loop.
@@ -45,7 +44,7 @@ class ReActAgent:
         3. Append Observation to prompt and repeat until Final Answer.
         """
         logger.log_event("AGENT_START", {"input": user_input, "model": self.llm.model_name})
-        
+        conver_his=f"User: {user_input}"
         current_prompt = user_input
         steps = 0
 
