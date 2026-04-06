@@ -1,8 +1,8 @@
 # Group Report: Lab 3 - Production-Grade Agentic System
 
-- **Team Name**: [Name]
-- **Team Members**: [Member 1, Member 2, ...]
-- **Deployment Date**: [YYYY-MM-DD]
+- **Team Name**: Team16-E402
+- **Team Members**: [Đào Danh Đăng Phụng, Hồ Xuân Phú, Phạm Anh Quân, Hoàng Ngọc Thạch, Nguyễn Minh Trí, Lại Dức Anh]
+- **Deployment Date**: [2026-04-6]
 
 ---
 
