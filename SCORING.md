@@ -62,3 +62,5 @@ The final grade for each student is calculated as:
 
 > [!IMPORTANT]
 > **"Fail Early, Learn Fast"**: We value the quality of your **Error Analysis** as much as the final working code. A well-documented failure trace is worth more than a "perfect" system with no explanation.
+
+
