@@ -231,3 +231,4 @@ Chatbot cần grounding indicators để user hiểu độ tin cậy.
 * WebSocket cho real-time updates
 * Dark mode toggle với system preference detection
 > Submit this report by renaming it to `REPORT_[YOUR_NAME].md` and placing it in this folder.
+
